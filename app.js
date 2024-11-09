@@ -42,6 +42,7 @@ const html = `
         background: white;
       }
       section {
+        color: pink;
         border-radius: 1em;
         padding: 1em;
         position: absolute;
@@ -50,11 +51,15 @@ const html = `
         margin-right: -50%;
         transform: translate(-50%, -50%);
       }
+      section i {
+        color: black;
+      }
     </style>
   </head>
   <body>
     <section>
-      Hello from Render!
+      I love You, Daniela <3
+      <i>by Henrique</i>
     </section>
   </body>
 </html>
