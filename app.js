@@ -39,10 +39,10 @@ const html = `
         font-size: calc(62rem / 16);
       }
       body {
-        background: white;
+        background: black;
       }
       section {
-        color: red;
+        color: pink;
         border-radius: 1em;
         padding: 1em;
         position: absolute;
@@ -50,10 +50,10 @@ const html = `
         left: 50%;
         margin-right: -50%;
         transform: translate(-50%, -50%);
+        font-size: calc(32rem / 16);
       }
       section i {
-        color: black;
-        font-family: arial;
+        color: white;
       }
     </style>
   </head>
