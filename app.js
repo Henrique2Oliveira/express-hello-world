@@ -42,7 +42,7 @@ const html = `
         background: white;
       }
       section {
-        color: pink;
+        color: red;
         border-radius: 1em;
         padding: 1em;
         position: absolute;
@@ -53,6 +53,7 @@ const html = `
       }
       section i {
         color: black;
+        font-family: arial;
       }
     </style>
   </head>
