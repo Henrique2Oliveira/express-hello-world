@@ -59,7 +59,7 @@ const html = `
   </head>
   <body>
     <section>
-      I love You, Daniela <3
+      I love You, Daniela ❤️
       <i>by Henrique</i>
     </section>
   </body>
